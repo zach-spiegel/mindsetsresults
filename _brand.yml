@@ -1,0 +1,28 @@
+meta:
+  name: Promote Care & Prevent Harm
+  link:
+    website: https://promotecare.org/
+    facebook: https://www.facebook.com/promotecarepreventharm/
+    linkedIn: https://www.linkedin.com/company/promotecarepreventharm/
+    instagram: https://www.instagram.com/promotecarepreventharm/
+
+logo:
+  large: https://images.squarespace-cdn.com/content/v1/6145206bce2b837f79b5ac67/1640820770606-40VY2V8ARLXJBZBVDLOJ/PCPHLogo__Vertical_Transperent.png
+  medium: https://static1.squarespace.com/static/6145206bce2b837f79b5ac67/t/614ce8ceff1f866c2f0fa473/1632430286671/PCPHLogo__Horizontal_Transperent.-01.png?format=1500w
+
+color:
+  foreground: "#453b97" # dark purple
+  background: "#FFFFFF" # white
+  primary: "#646cb2" # blueish purple
+  secondary: "#8297cd" #sky blue
+  tertiary: "#e78666" # orange
+
+typography:
+  fonts:
+    - family: Roboto
+      source: google
+    - family: Nunito
+      source: google
+  base: Roboto
+  headings: Nunito
+  monospace: Nunito
